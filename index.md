@@ -52,6 +52,11 @@
 جدا از تحصیل و کار ، تفریحات و علاقه مندی هایم 
 <br>
  موسیقی ، ورزش ، کامپیوتر ، دنیای مجازی ، فیلم ، عکاسی
+<br>
 <p style="text-align:center;">
- 
+<br>
+توانمندی خاص خودم که لازم میدانم دانشگاه از آن مطلع باشد
+<br>
+آموزش اکثر دروس کامپیوتری
+<br>
 English-sop:<a href="https://https://fatemehghasemiii.github.io/englishsop/">sop</a>
