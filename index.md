@@ -55,18 +55,3 @@
 <p style="text-align:center;">
  
 English-sop:<a href="https://fatemehghasemiii.github.io/englishsop/">sop</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
