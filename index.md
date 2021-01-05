@@ -13,9 +13,9 @@
 <p style="text-align:center;">
 میخواهم در این رشته تحصیل نمایم  
  <br>
-به خاطر علاقه ای که به این رشته دارم میخواهم یک برنامه نویس حرفه ای بشوم تا بتوانم برای خود و جامعه مفید باشم 
+به خاطر علاقه ای که به این رشته دارم میخواهم یک برنامه نویس حرفه ای بشوم تا بتوانم برای خود و جامعه مفید باشم
 <br>
- <p style="text-align:center;">
+<p style="text-align:center;">
  این دانشگاه را انتخاب کرده ام 
 <br>
  چون این دانشگاه تنها دانشگاه نزدیک محل زندگی من بود که این رشته را داشت 
@@ -54,4 +54,4 @@
  موسیقی ، ورزش ، کامپیوتر ، دنیای مجازی ، فیلم ، عکاسی
 <p style="text-align:center;">
  
-English-sop:<a href="https://fatemehghasemiii.github.io/englishsop/">sop</a>
+English-sop:<a href="https://https://fatemehghasemiii.github.io/englishsop/">sop</a>
