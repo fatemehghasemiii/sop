@@ -60,4 +60,4 @@
 آموزش اکثر دروس کامپیوتری
 <br>
 
-English-sop:<a href="https://https://fatemehghasemiii.github.io/englishsop/">sop</a>
+English-sop:<a href="https://fatemehghasemiii.github.io/englishsop/">sop</a>
